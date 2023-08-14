@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Here I do not want a warnig 
 if ('a' == 'a') {
     Console.WriteLine("Hello, World!");
 }
+
+// Here I want a warning
+if ('a' == 'a') Console.WriteLine("Hello, World!");
