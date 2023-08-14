@@ -1,0 +1,3 @@
+[*.cs]
+csharp_new_line_before_open_brace = none
+csharp_style_allow_embedded_statements_on_same_line_experimental = false:warning
